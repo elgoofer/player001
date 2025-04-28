@@ -1,5 +1,0 @@
-mutagen>=1.45.1
-python-vlc>=3.0.0
-# tkinterdnd2>=2.0.0a3
-ttkbootstrap>=0.5.11
-
